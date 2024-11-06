@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Itim&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Itim&family=Lobster&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Itim&family=Lobster&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Itim&family=Lobster&family=Unlock&display=swap');
+body{
+    color: white;
+    background-color:black
+}
+
+.class-1{
+    font-family: "Unlock", serif;
+    background-color: grey;
+    color: rgb(220, 174, 115);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+   word-spacing: 7px;
+   opacity:0.9;
+}
+
+.class-2{
+    font-family: "Abril Fatface", serif;
+    background-color:rgb(98, 56, 56);
+    color:rgb(194, 125, 125);
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 20px;
+    text-decoration: underline;   
+}
+
+.class-3{
+    font-family: "Lobster", sans-serif;
+}
+
+.class-4{
+    font-family: "Abril Fatface", serif;
+    text-decoration:line-through;
+    color: rgb(194, 125, 125);
+}
